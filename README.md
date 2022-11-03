@@ -1,10 +1,14 @@
-# 2D-Platformer-Character
+# Project Name
+
+2D-Platformer
+
+Description
 
 A somewhat-generic character (including animations and state machine) appropriate for a 2D platformer built in Godot. Includes test level.
 
-## Implementation
 
-Built using Godot 3.5
+## Implementation
+Jumping and moving features along with camera
 
 ## References
 
@@ -17,6 +21,6 @@ The adventurer sprite sheet is avalable from [rvros at itch.io](https://rvros.it
 
 None
 
-## Created by 
+## Created by
 
-Jason Francis
+Elizabeth Jiang
